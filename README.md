@@ -2,7 +2,7 @@
 proje
 
 Sinema Rezervasyon Programı
-Bu program, müşterilerin sinema seanslarında film rezervasyonu yapmasına olanak tanır. Program, Musteri, Rezervasyon, Film ve Seans sınıflarından oluşur.
+Bu program, müşterilerin sinema seanslarında film rezervasyonu yapmasına imkan tanır. Program, Musteri, Rezervasyon, Film ve Seans sınıflarından oluşur.
 
 Kullanım
 Programı kullanmak için, proje klasöründe yer alan Program.cs dosyasını açın ve uygulamayı başlatın. Ardından, müşterinin adı soyadı, cinsiyeti, engel durumu, seans, film adı ve bilet adeti gibi bilgileri girmesini sağlayan bir arayüz görüntülenir. Müşteri bilgileri girildikten sonra, rezervasyon bilgileri ekrana yazdırılır.
@@ -13,7 +13,7 @@ Bu sınıf, müşteriye ait bilgileri içerir. MusteriAdSoyad, Cinsiyet ve Engel
 
 
 rezervasyon
-Bu sınıf, müşterinin yaptığı rezervasyonu temsil eder. Musteri sınıfından miras alır ve MusteriAdsoyad, BiletAdeti, KoltukNo, Seans gibi özellikleri gösterir .
+Bu sınıf, müşterinin yaptığı rezervasyonu temsil eder. Musteri sınıfından miras alır ve MusteriAdsoyad, BiletAdeti, KoltukNo, Seans gibi özellikleri gösterir .rezervasyon sınıfı musteri sınıfının özelliklerini almıştır.
 
 Film
 Bu sınıf, sinema filmleri hakkında bilgi tutar. FilmAdi, FilmTürü ve VizyonTarihi gibi özellikleri gösterir.
@@ -25,3 +25,5 @@ Bu sınıf, sinema seanslarını temsil eder. Seans suresi, salonNo, film gibi �
 Salon
 bu sınıf,sinema salon numaralarını temsil eder. salon adi ve salon kapasitesi gibi özellikleri gösterir.
 
+program cs.
+program cs. sınıfların altındaki özelliklerin değerlerini girerek Konsole uygulamasında gözükmesini sağla.switch yapısını kullanarak konsol uygulamasına sorular sordurup cevaplarını yazdırır.
