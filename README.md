@@ -23,7 +23,7 @@ Bu sınıf, sinema seanslarını temsil eder. Seans suresi, salonNo, film gibi �
 
 
 Salon
-bu sınıf,sinema salon numaralarını temsil eder. salon adi ve salon kapasitesi gibi özellikleri gösterir.
+Bu sınıf,sinema salon numaralarını temsil eder. salon adi ve salon kapasitesi gibi özellikleri gösterir.
 
-program cs.
-program cs. sınıfların altındaki özelliklerin değerlerini girerek Konsole uygulamasında gözükmesini sağla.switch yapısını kullanarak konsol uygulamasına sorular sordurup cevaplarını yazdırır.
+Program cs.
+Program cs. sınıfların altındaki özelliklerin değerlerini girerek Konsole uygulamasında gözükmesini sağlar.Sinema  rezervasyon uygulamasında, Switch kodunu kullanarak belirli filmlerin hangi salonlarda oynayacağına bağlı olarak kullanıcıya hangi salonda kaç kişilik yer olduğunu,adını soyadını,cinsiyetini, bilet adetini,bildirir. While döngüsüylede kişinin engel durumu olup olmadığını sorup, var ise özel yer ayırtılacağı belirtilir.
